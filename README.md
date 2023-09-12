@@ -7,14 +7,21 @@ The aim of this analysis was to find the characterize of microarray profile of n
    
 ## 2. Plot clustermap to visualize data of gene expression (identification microarray profile):
    a) Ovarian Cancer 
+   
    b) Normal cell
+   
 ## 3. Split data into training and testing set
    a) 80% for training and validation
+   
    b) 20% for testing
+   
 ## 4. Train and validation model supervised learning
    a) RandomForest 
+   
    b) LogisticRegression model
+   
 ## 5. Evaluate model using testing set
+
 ## 6. Explain impact of gene by using feature importance
    
 **Data set source**: Dataset posted on 2021-01-29, 02:47 authored by Shilan S. Hameed, Rohayanti Hassan, Wan Haslina Hassan, Fahmi F. Muhammadsharif, Liza Abdul Latiff
