@@ -21,6 +21,21 @@ The aim of this analysis was to find the characterize of microarray profile of n
    b) LogisticRegression model
    
 ## 5. Evaluate model using testing set
+   a) accuracy
+
+   b) precision
+
+   c) recall
+
+   d) f1
+
+   e) AUC
+   
+   e) MCC
+   
+   g) confusion_matrix
+
+   h) roc curve
 
 ## 6. Explain impact of gene by using feature importance
    
