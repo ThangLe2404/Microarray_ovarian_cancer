@@ -3,7 +3,7 @@ The aim of this analysis was to find the characterize of microarray profile of n
 ## 1. Describe data:
    a)Distribution data analysis
    b) Examine the number of cancer and normal cell samples
-## 2. Plot clustermap to visualize data of gene expression to identify microarray profile:
+## 2. Plot clustermap to visualize data of gene expression (identification microarray profile):
    a) Ovarian Cancer 
    b) Normal cell
 ## 3. Split data into training and testing set
